@@ -12,14 +12,14 @@ Hello! I am Tasfia, a PhD Candidate in Computer Science and Engineering at The P
 
 Research Interests
 ======
-My research interests lie in the domain of Computational Biology. More sepcifically, my work focuse on assembly of circular RNAs.
+My research interest lies in the field of Computational Biology. More sepcifically, my work focuses on assembly of circular RNAs.
 
 
 News
 ======
 [December 2024] Our EquiRep work got accepted to RECOMB 2025. Thanks to all the co-authors!
 
-[Novemeber 2024] Passed my Ph.D. comprehensive exam!
+[Novemeber 2024] Passed my Ph.D. comprehensive exam and officially a Ph.D. candidate!
 
 [July 2024] Our work TERRACE, previously accepted to RECOMB 2024, has now been accepted to [Genome Research](https://genome.cshlp.org/content/34/9/1365)!
 
