@@ -14,7 +14,6 @@ Research Interests
 ======
 My research interest lies in the field of Computational Biology. More sepcifically, my work focuses on assembly of circular RNAs.
 
-
 News
 ======
 [December 2024] Our EquiRep work got accepted to RECOMB 2025. Thanks to all the co-authors!

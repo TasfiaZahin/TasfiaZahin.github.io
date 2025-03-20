@@ -11,18 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate in Computer Science, Pennsylvania State University (August 2021 - Present)
+* B.Sc. in Engineering, Bangladesh University of Engineering and Technology (BUET), (2015-2019)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2021 - Present: Graduate Research/Teaching Assistant
+  * Department of Computer Science and Engineering, The Pennsylvania State University
 
-* Fall 2015: Research Assistant
+* July 2019 - July 2021: Lecturer
+  * Department of Computer Science and Engineering, Ahsanullah University of Scinece and Technology 
+  * Currently on study leave
+
+
+<!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -30,7 +32,7 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
@@ -41,7 +43,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
