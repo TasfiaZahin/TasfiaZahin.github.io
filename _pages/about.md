@@ -12,7 +12,7 @@ Hello! I am Tasfia, a PhD Candidate in Computer Science and Engineering at The P
 
 Research Interests
 ======
-My research interest lies in the field of Computational Biology. More sepcifically, my work focuses on assembly of circular RNAs.
+My research interest lies in the field of Computational Biology. More sepcifically, my work focuses on assembly of circular RNAs from short/long RNA-seq data.
 
 News
 ======
