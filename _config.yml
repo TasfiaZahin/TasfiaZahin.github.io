@@ -22,7 +22,7 @@ repository               : "https://github.com/TasfiaZahin"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tasfia Zahin"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at Pennsylvania State University"

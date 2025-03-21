@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Please find my full [CV](/files/Tasfia_CV_2025.pdf) 
+<!-- (Last Updated: February 2025) -->
+
 Education
 ======
 * Ph.D Candidate in Computer Science, Pennsylvania State University (August 2021 - Present)
@@ -32,7 +35,7 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+  * Supervisor: Professor Git
   
 Skills
 ======
@@ -43,7 +46,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
