@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am Tasfia, a PhD Candidate in Computer Science and Engineering at The Pennsylvania State University, advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/).
+Hello! I am Tasfia, a PhD candidate in Computer Science and Engineering at The Pennsylvania State University, advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/).
 
 Research Interests
 ======
@@ -22,7 +22,7 @@ News
 
 [July 2024] Our work TERRACE, previously accepted to RECOMB 2024, has now been accepted to [Genome Research](https://genome.cshlp.org/content/34/9/1365)!
 
-[April 2024] Presented our work TERRACE at RECOMB 2024, Boston, MA!
+[April 2024] Presented our work TERRACE at RECOMB 2024, Boston, Massachusetts, USA!
 
 [December 2023] Our TERRACE work got accepted to RECOMB 2024. Thanks to all the co-authors!
 
