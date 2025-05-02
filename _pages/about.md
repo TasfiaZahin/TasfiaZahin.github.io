@@ -16,6 +16,8 @@ My research interest lies in the field of Computational Biology. More sepcifical
 
 News
 ======
+[April 2025] Presented our work EquiRep (and poster) at RECOMB 2025, Seoul, South Korea.
+
 [December 2024] Our EquiRep work got accepted to RECOMB 2025. Thanks to all the co-authors!
 
 [Novemeber 2024] Passed my Ph.D. comprehensive exam and officially a Ph.D. candidate!
