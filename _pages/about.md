@@ -18,7 +18,7 @@ News
 ======
 [July 2025] Our work EquiRep, previously accepted to RECOMB 2025, has now been accepted to [Genome Research](https://doi.org/10.1101/gr.280750.125)!
 
-[April 2025] Presented our work EquiRep (and poster) at RECOMB 2025, Seoul, South Korea.
+[April 2025] Presented our work EquiRep (and poster) at RECOMB 2025, Seoul, South Korea!
 
 [December 2024] Our EquiRep work got accepted to RECOMB 2025. Thanks to all the co-authors!
 
