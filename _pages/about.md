@@ -24,7 +24,7 @@ News
 
 [Novemeber 2024] Passed my Ph.D. comprehensive exam and officially a Ph.D. candidate!
 
-[July 2024] Our work TERRACE, previously accepted to RECOMB 2024, has now been accepted to [Genome Research](https://genome.cshlp.org/content/34/9/1365)!
+[July 2024] Our work TERRACE, previously accepted to RECOMB 2024, has now been accepted to [Genome Research](https://doi.org/10.1101/gr.279106.124)!
 
 [April 2024] Presented our work TERRACE at RECOMB 2024, Boston, Massachusetts, USA!
 
