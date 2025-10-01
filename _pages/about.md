@@ -20,7 +20,7 @@ News
 
 [April 2025] Presented our work EquiRep (and poster) at RECOMB 2025, Seoul, South Korea!
 
-[December 2024] Our EquiRep work got accepted to RECOMB 2025. Thanks to all the co-authors!
+[December 2024] Our work EquiRep got accepted to RECOMB 2025. Thanks to all the co-authors!
 
 [Novemeber 2024] Passed my Ph.D. comprehensive exam and officially a Ph.D. candidate!
 
@@ -28,7 +28,7 @@ News
 
 [April 2024] Presented our work TERRACE at RECOMB 2024, Boston, Massachusetts, USA!
 
-[December 2023] Our TERRACE work got accepted to RECOMB 2024. Thanks to all the co-authors!
+[December 2023] Our work TERRACE got accepted to RECOMB 2024. Thanks to all the co-authors!
 
 [April 2022] Passed my Ph.D. qualification exam!
 
