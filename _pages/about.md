@@ -16,7 +16,7 @@ My research interest lies in the field of Computational Biology. More sepcifical
 
 News
 ======
-[July 2025] Our work EquiRep, previously accepted to RECOMB 2025, has now been accepted to [Genome Research](https://doi.org/10.1101/gr.280750.125)!
+[July 2025] Our work EquiRep, previously accepted to RECOMB 2025, has now been accepted to Genome Research!
 
 [April 2025] Presented our work EquiRep (and poster) at RECOMB 2025, Seoul, South Korea!
 
@@ -24,7 +24,7 @@ News
 
 [Novemeber 2024] Passed my Ph.D. comprehensive exam and officially a Ph.D. candidate!
 
-[July 2024] Our work TERRACE, previously accepted to RECOMB 2024, has now been accepted to [Genome Research](https://doi.org/10.1101/gr.279106.124)!
+[July 2024] Our work TERRACE, previously accepted to RECOMB 2024, has now been accepted to Genome Research!
 
 [April 2024] Presented our work TERRACE at RECOMB 2024, Boston, Massachusetts, USA!
 
