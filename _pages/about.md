@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am Tasfia, a Ph.D. candidate in the department of Computer Science and Engineering at The Pennsylvania State University, advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/).
+Hello! I am Tasfia, a Ph.D. candidate in the department of Computer Science and Engineering at The Pennsylvania State University, advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). Previously, I have obtained my Bachelor's degree from [Bangladesh University of Engineering and Technology](https://cse.buet.ac.bd/).
 
 Research Interests
 ======
