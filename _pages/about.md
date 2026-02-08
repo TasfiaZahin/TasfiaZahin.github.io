@@ -12,7 +12,7 @@ Hello! I am Tasfia, a Ph.D. candidate in the department of Computer Science and 
 
 Research Interests
 ======
-My research focuses on Computational Biology. More sepcifically, I work with both short- and long-read RNA-seq data to improve the accuracy and resolution of circular RNA assembly.
+My research focuses on Computational Biology. More specifically, I work with both short- and long-read RNA-seq data to improve the accuracy and resolution of circular RNA assembly.
 
 News
 ======
