@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my full [CV](/files/Tasfia_CV_2025.pdf) 
+Please find my full [CV](/files/Tasfia_CV_2026.pdf) 
 <!-- (Last Updated: February 2025) -->
 
 Education
