@@ -18,6 +18,8 @@ News
 ======
 [July 2025] Our work EquiRep, previously accepted to RECOMB 2025, has now been accepted to Genome Research!
 
+[June 2025] Our work EquiRep got featured in [College of Engineering News](https://www.psu.edu/news/engineering/story/qa-how-does-computer-science-advance-biology?fbclid=IwY2xjawQBjyVleHRuA2FlbQIxMABicmlkETFBcGFkZ2EzSkhkNlVDTUw2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl77hkkgqbG_k3am-Wd3_RHWAPU1IBs075JhtvZUIO9Ld1i4Q0i6yYd3eyr3_aem_zAvEAifdZJay4WI50TdiyA) at Penn State!
+
 [April 2025] Presented our work EquiRep (and poster) at RECOMB 2025, Seoul, South Korea!
 
 [December 2024] Our work EquiRep got accepted to RECOMB 2025. Thanks to all the co-authors!
