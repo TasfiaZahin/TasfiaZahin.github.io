@@ -23,8 +23,7 @@ Work experience
   * Department of Computer Science and Engineering, The Pennsylvania State University
 
 * July 2019 - July 2021: Lecturer
-  * Department of Computer Science and Engineering, Ahsanullah University of Scinece and Technology 
-  * Currently on study leave
+  * Department of Computer Science and Engineering, Ahsanullah University of Scinece and Technology
 
 
 <!-- * Fall 2015: Research Assistant
