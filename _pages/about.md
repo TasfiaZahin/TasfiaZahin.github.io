@@ -24,7 +24,7 @@ News
 
 [December 2024] Our work EquiRep got accepted to RECOMB 2025. Thanks to all the co-authors!
 
-[Novemeber 2024] Passed my Ph.D. comprehensive exam and officially a Ph.D. candidate!
+[Novemeber 2024] Passed my PhD comprehensive exam and officially a Ph.D. candidate!
 
 [July 2024] Our work TERRACE, previously accepted to RECOMB 2024, has now been accepted to Genome Research!
 
@@ -32,7 +32,7 @@ News
 
 [December 2023] Our work TERRACE got accepted to RECOMB 2024. Thanks to all the co-authors!
 
-[April 2022] Passed my Ph.D. qualification exam!
+[April 2022] Passed my PhD qualification exam!
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
