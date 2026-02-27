@@ -14,8 +14,8 @@ Please find my full [CV](/files/Tasfia_CV_2026.pdf)
 
 Education
 ======
-* PhD Candidate in Computer Science, Pennsylvania State University (August 2021 - Present)
-* BSc in Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET), (2015-2019)
+* PhD Candidate in Computer Science, Pennsylvania State University, August 2021 - Present
+* Bachelor's in Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET), 2015-2019
 
 Work experience
 ======
