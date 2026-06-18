@@ -14,13 +14,13 @@ Please find my full [CV](/files/Tasfia_CV_2026.pdf)
 
 Education
 ======
-* PhD in Computer Science and Engineering, Pennsylvania State University, August 2021 - May 2026
+* Ph.D. in Computer Science and Engineering, Pennsylvania State University, August 2021 - May 2026
 * Bachelor's in Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET), 2015-2019
 
 Work experience
 ======
-* August 2021 - Present: Graduate Research/Teaching Assistant
-  * Department of Computer Science and Engineering, The Pennsylvania State University
+* August 2021 - June 2026: Graduate Research/Teaching Assistant
+  * Department of Computer Science and Engineering, Pennsylvania State University
 
 * July 2019 - July 2021: Lecturer
   * Department of Computer Science and Engineering, Ahsanullah University of Science and Technology
