@@ -16,7 +16,7 @@ My research focuses on Computational Biology. More specifically, I work with bot
 
 News
 ======
-[May 2026] Defended my PhD dissertation at Penn State! Title: *Computational Approaches for Full-Length Circular RNA Assembly from RNA Sequencing Data*
+[May 2026] Defended my PhD dissertation at Penn State: *Computational Approaches for Full-Length Circular RNA Assembly from RNA Sequencing Data*!
 
 [July 2025] Our work EquiRep, previously accepted to RECOMB 2025, has now been accepted to Genome Research!
 
