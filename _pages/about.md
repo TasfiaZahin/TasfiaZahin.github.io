@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am Tasfia, a PhD candidate in the department of Computer Science and Engineering at The Pennsylvania State University, advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). Previously, I have obtained my Bachelor's degree from [Bangladesh University of Engineering and Technology](https://cse.buet.ac.bd/).
+Hello, I am Tasfia! I have received my PhD from the department of Computer Science and Engineering at The Pennsylvania State University, advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). Previously, I have obtained my Bachelor's degree from [Bangladesh University of Engineering and Technology](https://cse.buet.ac.bd/).
 
 Research Interests
 ======
@@ -16,6 +16,8 @@ My research focuses on Computational Biology. More specifically, I work with bot
 
 News
 ======
+[May 2026] Defended my PhD dissertation at Penn State! Title: *Computational Approaches for Full-Length Circular RNA Assembly from RNA Sequencing Data*
+
 [July 2025] Our work EquiRep, previously accepted to RECOMB 2025, has now been accepted to Genome Research!
 
 [June 2025] Our work EquiRep got featured in [College of Engineering News](https://www.psu.edu/news/engineering/story/qa-how-does-computer-science-advance-biology?fbclid=IwY2xjawQBjyVleHRuA2FlbQIxMABicmlkETFBcGFkZ2EzSkhkNlVDTUw2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl77hkkgqbG_k3am-Wd3_RHWAPU1IBs075JhtvZUIO9Ld1i4Q0i6yYd3eyr3_aem_zAvEAifdZJay4WI50TdiyA) at Penn State!
