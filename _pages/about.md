@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello, I am Tasfia! I have received my Ph.D. from the department of Computer Science and Engineering at The Pennsylvania State University, advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). Previously, I have obtained my Bachelor's degree from [Bangladesh University of Engineering and Technology](https://cse.buet.ac.bd/).
+Hello, I am Tasfia! I am currently working as a postdoctoral scholar at [U.S. National Science Foundation National Synthesis Center for Emergence in the Molecular and Cellular Sciences (NCEMS)](https://ncems.psu.edu/). I have received my Ph.D. from the department of Computer Science and Engineering at The Pennsylvania State University, advised by [Dr. Mingfu Shao](https://sites.psu.edu/mxs2589/). Previously, I have obtained my Bachelor's degree from [Bangladesh University of Engineering and Technology](https://cse.buet.ac.bd/).
 
 Research Interests
 ======
@@ -16,6 +16,8 @@ My research focuses on Computational Biology. More specifically, I work with bot
 
 News
 ======
+[August 2026] Started working as a postdoctoral scholar at U.S. National Science Foundation National Synthesis Center for Emergence in the Molecular and Cellular Sciences (NCEMS)!
+
 [May 2026] Defended my Ph.D. dissertation at Penn State: *Computational Approaches for Full-Length Circular RNA Assembly from RNA Sequencing Data*!
 
 [July 2025] Our work EquiRep, previously accepted to RECOMB 2025, has now been accepted to Genome Research!
