@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* August 2026 - Present: Postdoctoral Scholar
+  * U.S. National Science Foundation National Synthesis Center for Emergence in the Molecular and Cellular Sciences (NCEMS), Huck Institutes of the Life Sciences, Pennsylvania State University
+    
 * August 2021 - June 2026: Graduate Research/Teaching Assistant
   * Department of Computer Science and Engineering, Pennsylvania State University
 
