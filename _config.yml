@@ -15,7 +15,7 @@ name                     : &name "Tasfia Zahin"
 description              : &description "Postdoctoral Scholar @ NSF-NCEMS Ph.D. @ Pennsylvania State University"
 url                      : https://TasfiaZahin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/TasfiaZahin"
+repository               : "TasfiaZahin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Postdoctoral Scholar @ NSF-NCEMS Ph.D. @ Pennsylvania State University"
   location         : "State College, Pennsylvania, USA"
   employer         : "The Pennsylvania State University"
-  uri              : # URL
+  uri              : "TasfiaZahin.github.io"
   email            : "tk5115@psu.edu" 
 
   # Academic websites
@@ -147,7 +147,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
