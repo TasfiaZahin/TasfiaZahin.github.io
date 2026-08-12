@@ -13,9 +13,9 @@ title                    : "Tasfia Zahin"
 title_separator          : "-"
 name                     : &name "Tasfia Zahin"
 description              : &description "Postdoctoral Scholar @ NSF-NCEMS Ph.D. @ Pennsylvania State University"
-url                      : https://TasfiaZahin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://tasfiazahin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TasfiaZahin.github.io"
+repository               : "tasfiazahin.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -140,9 +140,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Tasfia Zahin" # If the user or organization name differs from the site's name
+  links: - "https://tasfiazahin.github.io/"
+    - "https://www.linkedin.com/in/tasfia-zahin/"
+    - "https://github.com/TasfiaZahin"
+    - "https://orcid.org/0009-0000-7040-210X"
+    - "https://scholar.google.com/citations" # An array of links to social media profiles
 
 
 # Analytics
