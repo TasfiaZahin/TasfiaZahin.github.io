@@ -12,7 +12,7 @@ Hello, I am Tasfia! I am currently working as a postdoctoral scholar at [U.S. Na
 
 Research Interests
 ======
-My research focuses on Computational Biology. More specifically, I work with both short- and long-read RNA-seq data to improve the accuracy and resolution of circular RNA assembly.
+My research focuses on Computational Biology. During my PhD I have worked with both short- and long-read RNA-seq data to improve the accuracy and resolution of circular RNA assembly. Currently I am exploring single-cells multi omics data to understand genome structure-function relationships in human brain cells.
 
 News
 ======
